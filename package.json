@@ -1,7 +1,7 @@
 {
   "name": "chai-crane-handler",
   "version": "0.0.0",
-  "description": "TODO",
+  "description": "Helpers for testing Crane handlers with the Chai assertion library.",
   "keywords": [
     "chai",
     "crane"
